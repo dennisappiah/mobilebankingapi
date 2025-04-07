@@ -1,0 +1,6 @@
+@MobileBankingUSSD.API_HostAddress = http://localhost:5157
+
+GET {{MobileBankingUSSD.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

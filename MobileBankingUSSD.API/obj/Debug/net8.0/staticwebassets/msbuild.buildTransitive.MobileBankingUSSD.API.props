@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MobileBankingUSSD.API.props" />
+</Project>

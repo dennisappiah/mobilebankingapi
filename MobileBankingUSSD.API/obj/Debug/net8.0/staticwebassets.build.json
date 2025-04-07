@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tAyX73JwH1al6wKWGt7MbdNas3DRt5g3YxG/AaN8z+I=",
+  "Source": "MobileBankingUSSD.API",
+  "BasePath": "_content/MobileBankingUSSD.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
